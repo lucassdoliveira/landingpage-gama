@@ -200,6 +200,7 @@ footer span{
     }
     .title h3{font-size: 11px;}
     .item h2{height: 60px;}
+    .item{flex-basis: 40%;}
 }
 
 @media (max-width: 375px) {
@@ -211,7 +212,6 @@ footer span{
     .box-form p.sub{font-size: 16px;}
     .box-form p.leg{font-size: 12px;}
     .box-form h2{font-size: 10px;}
-    .item {flex-basis: 40%;}
     .infos{margin-top: 25px;}
     
 }
